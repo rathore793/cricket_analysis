@@ -30,7 +30,7 @@ With this project, we aim to find out the best of 11 team members who have the b
 - The Team should be able to score 180 runs on average.
 - They should be able to defend 150 runs on average.
 
-## Skills Demonstrated:
+## Skills Demonstrated
 The following PowerBI and Python features were incorporated into this project: 
 - Data Collection with web scrapping using Request, Selenium, and BeautifulSoup Python Library.
 - Data Wrangling and Manipulation using Python Pandas Library.
@@ -38,7 +38,7 @@ The following PowerBI and Python features were incorporated into this project:
 - Data Analysis Expression (DAX) to create measures and calculated columns.
 - Data visualization and Analysis.
 
-## Data Sourcing:
+## Data Sourcing
 The Source of the data for this project is [ESPN Cricinfo](https://www.espncricinfo.com/records/season/team-match-results/2022to23-2022to23?trophy=89) website and it is fetched using Request, Selenium and BeautifulSoup.
 
 ![](images/espn.png "ESPN")
@@ -256,12 +256,12 @@ T2 CODE = SWITCH(match_summary[Team2],
 Match = match_summary[T1 CODE] & " vs " & match_summary[T2 CODE]
 ```
 
-## Data Modelling: 
+## Data Modelling
 Auto Adjusted Model has missing connections, all the connections were connected and the star schema followed the same as shown below:
 
 ![](images/model.png "Data Model")
 
-## Visualization:
+## Visualization
 
 We have 5 different kinds of players, for each kind we have made a separate page report with a table with all the required columns, 4 line charts with all different KPIs, 4 Cards each showing different stats of any selected player, and 1 scatter plot between 2 important KPIs and 3rd representing the size of the scatter bubbles, Check out all of them below:
 
@@ -303,7 +303,7 @@ Finally, we have player profile pages which show the player profile using a tool
 
 ![](images/all_rounder_profile.png "All Rounder")
 
-## Analysis and Conclusions:
+## Analysis and Conclusions
 All the visual were created post that the filters were applied which are based on the requirement we have to achieve the target, the filtered result help in reducing the size of the number of players so that we can analyze all the players and pick the best-performing player. You can check the criteria below:
 
 - ***Power Hitters/ Openers:***
@@ -360,8 +360,8 @@ We can also check the performance of our favorite 11 players using the final 11 
 
 ![](images/my_final_11.png "My Final 11")
 
-## Report:
-Please check out the link to the full report on PowerBI or NovyPro.
+## Report
+Please check out the link to the full report on [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNGM1M2RmYTktMGVlNy00ODhiLTgyOWMtY2MzZGJhNjliZDViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) or [NovyPro](https://www.novypro.com/project/icc-mens-t20-world-cup-analysis).
 
 ## References
 
