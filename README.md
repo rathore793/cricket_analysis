@@ -8,7 +8,7 @@
 - [Skills Demonstrated](#Skills-Demonstrated)
 - [Data Sourcing](#Data-Sourcing)
 - [Data Transformation](#Data-Transformation)
-- [Data Modeling](#Data-Modeling)
+- [Data Modelling](#Data-Modelling)
 - [Visualization](#Visualization)
 - [Analysis and Conclusions](#Analysis-and-Conclusions)
 - [Report](#Report)
