@@ -2,7 +2,17 @@
 
 ![](images/wc.jpg)
 
-[Data Transformation](#Data-Transformation)
+## Table of Contents:
+- [Introduction](#Introduction)
+- [Problem Statement](#Problem-Statement)
+- [Skills Demonstrated](#Skills-Demonstrated)
+- [Data Sourcing](#Data-Sourcing)
+- [Data Transformation](#Data-Transformation)
+- [Data Modeling](#Data-Modeling)
+- [Visualization](#Visualization)
+- [Analysis and Conclusions](#Analysis-and-Conclusions)
+- [Report](#Report)
+- [References](#References)
 
 ## Introduction
 
@@ -353,7 +363,7 @@ We can also check the performance of our favorite 11 players using the final 11 
 ## Report:
 Please check out the link to the full report on PowerBI or NovyPro.
 
-## Reference
+## References
 
 - [ESPN Cricinfo](https://www.espncricinfo.com/records/season/team-match-results/2022to23-2022to23?trophy=89)
 - [CodeBasics](https://www.youtube.com/@codebasics)
