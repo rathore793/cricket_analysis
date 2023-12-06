@@ -2,7 +2,7 @@
 
 ![](images/wc.jpg)
 
-[Data Transformation](#data-transformation)
+[Data Transformation](#Data-Transformation)
 
 ## Introduction
 
