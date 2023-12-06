@@ -2,6 +2,8 @@
 
 ![](images/wc.jpg)
 
+[Data Transformation](#data-transformation)
+
 ## Introduction
 
 The ICC Men's T20 World Cup is the Twenty20 International cricket tournament, organised by the International Cricket Council (ICC) since 2007. As of 2024, it will include 20 teams.
